@@ -1,6 +1,6 @@
 # Personal Expense Tracker (Python + Tkinter + SQLite)
 
-A clean and beginner-friendly **Personal Expense Tracker** desktop application built using **Python**, with a graphical interface powered by **Tkinter**, a local **SQLite3 database**, and category-wise **bar charts using Matplotlib**.
+A clean and beginner-friendly **Personal Expense Tracker** desktop application built using **Python**, with a graphical interface powered by **Tkinter**, a local **SQLite3 database**, and category-wise **bahhr charts using Matplotlib**.
 
 This app allows users to **record daily expenses**, view them in a **scrollable table**, and **visualize their spending habits** with just one click — all offline, no internet required!
 
