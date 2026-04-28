@@ -1,0 +1,14 @@
+
+# Required external libraries for the Personal Expense Tracker project
+matplotlib>=3.0
+
+
+-Notes:
+We only list matplotlib because:
+tkinter is included with Python (no need to install via pip).
+sqlite3 is also built into Python.
+
+
+-To install matplotlib
+Run this command in your terminal:
+pip install matplotlib
